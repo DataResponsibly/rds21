@@ -53,6 +53,6 @@
 **Reading:**
 
 *   "The long road to fairer algorithms", M. Kushner, J. Loftus (2020) [[Nature](https://www.nature.com/articles/d41586-020-00274-3)]  
-*   "Counterfactual fairness", M. Kusner, J. Loftus, C. Russell, R. Silva(2017) [[pdf](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)]
+*   "Counterfactual fairness", M. Kusner, J. Loftus, C. Russell, R. Silva (2017) [[pdf](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)]
 
 **Lab:** Data profiling and data cleaning; course project discussion

@@ -37,7 +37,7 @@ description: "Responsible Data Science Course Website"
 
 ## Description {-}
 
-The first wave of data science focused on accuracy and efficiency -- on what we _can_ do with data. The second wave focuses on responsibility -- on what we _should_ and _shouldn't_ do. Irresponsible use of data science can cause harm on an unprecedented scale. Algorithmic changes in search engines can sway elections and incite violence; irreproducible results can influence global economic policy; models based on biased data can legitimize and amplify racist policies in the criminal justice system; algorithmic hiring practices can silently and scalably violate equal opportunity laws, exposing companies to lawsuits and reinforcing the feedback loops that lead to lack of diversity.  Therefore, as we develop and deploy data science methods, we are compelled to think about the effects these methods have on individuals, population groups, and on society at large.
+The first wave of data science focused on accuracy and efficiency -- on what we _can_ do with data. The second wave focuses on responsibility -- on what we _should_ and _shouldn't_ do. Irresponsible use of data science can cause harm on an unprecedented scale. Algorithmic changes in search engines can sway elections and incite violence; irreproducible results can influence global economic policy; models based on biased data can legitimize and amplify racist policies in the criminal justice system; algorithmic hiring practices can silently and scalably violate equal opportunity laws, exposing companies to lawsuits and reinforcing the feedback loops that lead to lack of diversity. Therefore, as we develop and deploy data science methods, we are compelled to think about the effects these methods have on individuals, population groups, and on society at large.
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection. 
 
@@ -45,7 +45,7 @@ The course is developed and taught by [Julia Stoyanovich](https://engineering.ny
 
 ## Prerequisites {-}
 
-**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, Machine Learning, or similar courses\
+**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
 **DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
 
 ## Background Reading {-}
@@ -77,20 +77,20 @@ This weekly schedule is tentative and is subject to change.
 
 | Week | Week Starting | Lecture | Assignment |
 |:-----------|:------------|:------------|:------------|
-| [1](#w1)    |  Feb 1       |    Introduction and background; Algorithmic fairness I   | |
-| [2](#w2)    |  Feb 8      |    Algorithmic fairness II    | HW1 assigned |
-| [3](#w3)    |  Feb 15     |    Data cleaning    | |
-| [4](#w4)    |  Feb 22     |    Fairness and causality; Data profiling I  | HW1 due; project assigned |
-| [5](#w5)    |  Mar 1       |    Data profiling II; Anonymity and privacy I  | |
-| [6](#w6)    |  Mar 8      |    Anonymity and privacy II  | HW2 assigned |
-| [7](#w7)    |  Mar 15     |    Ethical Frameworks    | |
-| [8](#w8)    |  Mar 22     |    Transparency I    | |
+| [1](#w1)    |  Feb 1   |    Introduction and background; Algorithmic fairness I   | |
+| [2](#w2)    |  Feb 8   |    Algorithmic fairness II    | HW1 assigned |
+| [3](#w3)    |  Feb 15  |    Data cleaning    | |
+| [4](#w4)    |  Feb 22  |    Fairness and causality; Data profiling I  | HW1 due; project assigned |
+| [5](#w5)    |  Mar 1   |    Data profiling II; Anonymity and privacy I  | |
+| [6](#w6)    |  Mar 8   |    Anonymity and privacy II  | HW2 assigned |
+| [7](#w7)    |  Mar 15  |    Ethical Frameworks    | |
+| [8](#w8)    |  Mar 22  |    Transparency I    | |
 | [9](#w9)    |  Mar 29  |    Transparency II    | HW2 due |
 | [10](#w10)  |  Apr 5   |    Transparency III    | HW3 assigned |
-| [11](#w11)  |  Apr 12     |    RDS in practice (guest lecture)    | |
-| [12](#w12)  |  Apr 19     |    Interpretability    | HW3 due |
-| [13](#w13)  |  Apr 26     |     Legal and regulatory frameworks    | Final exam assigned |
-| [14](#w14)  |  May 3       |    Project presentations    | Project report due |
+| [11](#w11)  |  Apr 12  |    RDS in practice (guest lecture)    | |
+| [12](#w12)  |  Apr 19  |    Interpretability    | HW3 due |
+| [13](#w13)  |  Apr 26  |    Legal and regulatory frameworks    | Final exam assigned |
+| [14](#w14)  |  May 3   |    Project presentations    | Project report due |
 \
 
 ## Meeting Times {-}
