@@ -8295,7 +8295,7 @@ body {
   padding-right: 1em !important; }
 
 .jumbotron {
-  background: url("../img/jumbotron_mask.svg") repeat, url("../") center/cover #ffffff;
+  background: url("../") repeat, url("../") center/cover #ffffff;
   color: "#313639"; }
   .jumbotron a {
     color: #fcfcfc;

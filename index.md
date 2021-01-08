@@ -61,19 +61,19 @@ This weekly schedule is tentative and is subject to change.
 
 | Week | Starting | Lecture | Assignment |
 |:-----------|:------------|:------------|:------------|
-| [1](#w1)    |  Feb 1   |    Introduction and Background; Algorithmic Fairness I   | |
+| [1](#w1)    |  Feb 1   |    Introduction; Algorithmic Fairness I   | |
 | [2](#w2)    |  Feb 8   |    Algorithmic Fairness II    | HW1 assigned |
-| [3](#w3)    |  Feb 15  |    Data Cleaning    | Project assigned |
-| [4](#w4)    |  Feb 22  |    Fairness and Causality; Data Profiling I  | HW1 due |
-| [5](#w5)    |  Mar 1   |    Data Profiling II; Anonymity and Privacy I  | HW2 assigned |
-| [6](#w6)    |  Mar 8   |    Anonymity and Privacy II  | |
-| [7](#w7)    |  Mar 15  |    Ethical Frameworks    | HW2 due |
-| [8](#w8)    |  Mar 22  |    Transparency I    | HW3 assigned |
-| [9](#w9)    |  Mar 29  |    Transparency II    | |
-| [10](#w10)  |  Apr 5   |    Transparency III    | HW3 due |
-| [11](#w11)  |  Apr 12  |    Guest Lecture    | HW4 assigned |
-| [12](#w12)  |  Apr 19  |    Interpretability    | |
-| [13](#w13)  |  Apr 26  |    Legal and Regulatory Frameworks    | HW4 due; Final exam assigned |
+| [3](#w3)    |  Feb 15  |    Fairness and Causality  | Project assigned |
+| [4](#w4)    |  Feb 22  |    Ethical Frameworks (Guest Lecture)  | HW1 due |
+| [5](#w5)    |  Mar 1   |    Data Cleaning  | HW2 assigned |
+| [6](#w6)    |  Mar 8   |    Data Profiling I  | |
+| [7](#w7)    |  Mar 15  |    Data Profiling II    | HW2 due |
+| [8](#w8)    |  Mar 22  |    Anonymity and Privacy I    | HW3 assigned |
+| [9](#w9)    |  Mar 29  |    Anonymity and Privacy II    | |
+| [10](#w10)  |  Apr 5   |    Legal and Regulatory Frameworks    | HW3 due |
+| [11](#w11)  |  Apr 12  |    Transparency I    | HW4 assigned |
+| [12](#w12)  |  Apr 19  |    Transparency II   | |
+| [13](#w13)  |  Apr 26  |    Interpretability  | HW4 due; Final exam assigned |
 | [14](#w14)  |  May 3   |    Project Presentations    | Project report due |
 
 
