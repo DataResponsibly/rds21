@@ -8,7 +8,9 @@ published: true
 **Instructors**
 
 [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering<br>
-[George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science
+office hours Mondays, noon ET or by appointment<br>
+[George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
+office hours Tuesdays, 1pm ET or by appointment<br>
 
 **Section Leaders**
 
