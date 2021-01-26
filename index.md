@@ -8,20 +8,18 @@ published: true
 **Instructors**
 
 [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), Assistant Professor of Data Science, Computer Science and Engineering<br>
-office hours Mondays, noon ET or by appointment<br>
 [George Wood](https://gwood.me), Moore-Sloan Faculty Fellow, Center for Data Science<br>
-office hours Tuesdays, 1pm ET or by appointment<br>
 
 **Section Leaders**
 
-[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202, office hours TBD<br>
-[Jeewon Ha](mailto:jh6926@nyu.edu), DS-UA 202, office hours TBD<br>
-[Prasanthi Gurumurthy](mailto:pg1899@nyu.edu), DS-GA 1017, office hours TBD<br>
+[Apurva Bhargava](mailto:ab8687@nyu.edu), DS-UA 202<br>
+[Jeewon Ha](mailto:jh6926@nyu.edu), DS-UA 202<br>
+[Prasanthi Gurumurthy](mailto:pg1899@nyu.edu), DS-GA 1017<br>
 
 **Graders**
 
-[Evaristus Ezekwem](mailto:ece278@nyu.edu), DS-GA 1017, office hours TBD<br>
-[Nan Wu](mailto:nw1045@nyu.edu), DS-GA 1017, office hours TBD
+[Evaristus Ezekwem](mailto:ece278@nyu.edu), DS-GA 1017<br>
+[Nan Wu](mailto:nw1045@nyu.edu), DS-GA 1017
 
 ## Syllabi
 
