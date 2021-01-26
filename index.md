@@ -18,8 +18,8 @@ published: true
 
 **Graders**
 
-[Evaristus Ezekwem](mailto:evaristus.ezekwem@nyu.edu), DS-GA 1017, office hours TBD<br>
-[Nan Wu](nw1045@nyu.edu), DS-GA 1017, office hours TBD
+[Evaristus Ezekwem](mailto:ece278@nyu.edu), DS-GA 1017, office hours TBD<br>
+[Nan Wu](mailto:nw1045@nyu.edu), DS-GA 1017, office hours TBD
 
 ## Syllabi
 
@@ -34,48 +34,6 @@ Responsible Data Science is a technical course that tackles the issues of ethics
 
 The course is developed and taught by [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich) (Assistant Professor at the Center for Data Science and at the Tandon School of Engineering, and member of the [NYC Automated Decision Systems Task Force](https://www1.nyc.gov/site/adstaskforce/index.page)) and [George Wood](https://gwood.me) (Moore-Sloan Faculty Fellow at the Center for Data Science).
 
-## Prerequisites
-
-**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
-**DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
-
-## Background Reading
-
-**Required:**
-
-*  Barocas and Selbst (2016) "Big Data’s Disparate Impact" [[pdf](http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf)]
-*  White House Report on Big Data (2014) "Big Data: Seizing Opportunities, Preserving Values" [[pdf](https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf)]
-*  Brauneis and Goodman (2017) "Algorithmic Transparency for the Smart City" [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012499)]
-*  Kroll et al. (2017) "Accountable Algorithms" [[pdf](https://scholarship.law.upenn.edu/penn_law_review/vol165/iss3/3/)]
-
-**Optional:**
-
-*  Matthew Salganik "Bit by Bit: Social Research in the Digital Age" [[read online](https://www.bitbybitbook.com/en/1st-ed/preface/)]
-*  Cathy O’Neil "Weapons of Math Destruction"
-*  Frank Pasquale "The Black Box Society"
-*  Virginia Eubanks "Automating Inequality"
-
-## Schedule
-
-This weekly schedule is tentative and is subject to change.
-
-| Week | Starting | Lecture | Assignment |
-|:-----------|:------------|:------------|:------------|
-| [1](#w1)    |  Feb 1   |    Introduction; Algorithmic Fairness I   | |
-| [2](#w2)    |  Feb 8   |    Algorithmic Fairness II    | HW1 assigned |
-| [3](#w3)    |  Feb 15  |    Fairness and Causality  | Project assigned |
-| [4](#w4)    |  Feb 22  |    Ethical Frameworks (Guest Lecture)  | HW1 due; HW2 assigned |
-| [5](#w5)    |  Mar 1   |    Data Cleaning  | |
-| [6](#w6)    |  Mar 8   |    Data Profiling I  | |
-| [7](#w7)    |  Mar 15  |    Data Profiling II    | HW2 due; HW3 assigned |
-| [8](#w8)    |  Mar 22  |    Anonymity and Privacy I    | |
-| [9](#w9)    |  Mar 29  |    Anonymity and Privacy II    | |
-| [10](#w10)  |  Apr 5   |    Legal and Regulatory Frameworks    | HW3 due; HW4 assigned |
-| [11](#w11)  |  Apr 12  |    Transparency I    | |
-| [12](#w12)  |  Apr 19  |    Transparency II   | |
-| [13](#w13)  |  Apr 26  |    Interpretability  | HW4 due; Final exam assigned |
-| [14](#w14)  |  May 3   |    Project Presentations    | Project report due |
-
 
 ## Meeting Times
 
@@ -83,9 +41,9 @@ This weekly schedule is tentative and is subject to change.
 
 | | Day | Time | Format |
 |:--|:--|:--|:--|
-Lecture A | Tuesdays   | 9:30am-12pm     | Blended |
-Lab     A | Wednesdays | 9:30am-10:20am  | Online  |
-Lab     B | Wednesdays | 10:25am-11:15am | Blended |
+Lecture A | Tuesdays   | 9:30am -- 12pm     | Blended |
+Lab     A | Wednesdays | 9:30am -- 10:20am  | Online  |
+Lab     B | Wednesdays | 10:25am -- 11:15am | Blended |
 
 &nbsp;
 
@@ -94,6 +52,11 @@ Lab     B | Wednesdays | 10:25am-11:15am | Blended |
 
 | | Day | Time | Format |
 |:--|:--|:--|:--|
-Lecture B | Mondays    | 9:15am-10:55am  | Blended |
-Lab     C | Mondays    | 11:35am-12:25am | Blended |
-Lab     D | Wednesdays | 9:30am-10:20am  | Online  |
+Lecture B | Mondays    | 9:15am -- 10:55am  | Blended |
+Lab     C | Mondays    | 11:35am -- 12:25pm | Blended |
+Lab     D | Wednesdays | 9:30am -- 10:20am  | Online  |
+
+## Prerequisites
+
+**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
+**DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
