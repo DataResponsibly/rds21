@@ -60,3 +60,7 @@ Lab     D | Wednesdays | 9:30am -- 10:20am  | Online  |
 
 **DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses\
 **DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
+
+## Assignments
+
+See [NYU Classes](newclasses.nyu.edu).
