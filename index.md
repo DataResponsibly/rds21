@@ -63,4 +63,4 @@ Lab     D | Wednesdays | 9:30am -- 10:20am  | Online  |
 
 ## Assignments
 
-See [NYU Classes](newclasses.nyu.edu).
+See [NYU Classes](https://newclasses.nyu.edu).
