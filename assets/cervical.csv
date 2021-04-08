@@ -1,4 +1,4 @@
-Age,Number.of.sexual.partners,First.sexual.intercourse,Num.of.pregnancies,Smokes,Smokes..years.,Hormonal.Contraceptives,Hormonal.Contraceptives..years.,IUD,IUD..years.,STDs,STDs..number.,STDs..Number.of.diagnosis,STDs..Time.since.first.diagnosis,STDs..Time.since.last.diagnosis,Biopsy
+age,number_of_sexual_partners,first_sexual_intercourse,num_of_pregnancies,smokes,smokes_years,hormonal_contraceptives,hormonal_contraceptives_years,iud,iud_years,st_ds,st_ds_number,st_ds_number_of_diagnosis,st_ds_time_since_first_diagnosis,st_ds_time_since_last_diagnosis,biopsy
 18,4,15,1,0,0,0,0,0,0,0,0,0,1,1,Healthy
 15,1,14,1,0,0,0,0,0,0,0,0,0,1,1,Healthy
 34,1,15,1,0,0,0,0,0,0,0,0,0,1,1,Healthy
